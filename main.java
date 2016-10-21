@@ -48,7 +48,6 @@ class main {
 	  if ((NewBlock > 100) && NewBlock < 1000) {
 	    Pass.add((int)NewBlock);
 	  };
-	  System.out.println("Pass = " + Pass);
         };
       };
     }; //while
