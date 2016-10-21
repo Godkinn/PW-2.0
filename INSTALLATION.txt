@@ -1,0 +1,18 @@
+The steps to download the software are as follows:
+ 1. Press the download button on github
+ 2. Download and save the file as main.java
+ 
+ Linux:
+  1. Open terminal
+  2. Go to the folder which contains the file 
+  3. Type javac main.java
+  4. Type java main
+  5. The program works
+  
+ Windows:
+  1. Press Windowskey + r
+  2. Type cmd.exe and run
+  3. Go to the folder that contains the file
+  4. Type javac main.java
+  5. Type java main
+  6. The program should work
